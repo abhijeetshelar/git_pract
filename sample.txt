@@ -2,5 +2,6 @@ this is sample file for this repo.
 now I am able to read data
 this is line number 3.
 i am added some information.
+some code are missed
 
 this line six.
