@@ -1,4 +1,4 @@
 this is sample file for this repo.
-
+now I am able to read data
 
 i am added some information.
